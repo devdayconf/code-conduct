@@ -1,11 +1,11 @@
 
 # política anti-acoso
 
-Tenemos una política oficial contra el acoso de los eventos y actividades del pitón Mendoza | Pyladies Mendoza y extender la misma junto con adicional para el evento Argentina DevDay.
+Tenemos una política oficial contra el acoso de los eventos y actividades del pitón Mendoza | Pyladies Mendoza y extender la misma junto con adicional para el evento +Con.
 
 meta ##
 
-Mendoza Python | Pyladies Mendoza | Argentina DevDay se dedica a proporcionar un evento gratuito para todos y sin acoso.
+Mendoza Python | Pyladies Mendoza | +Con se dedica a proporcionar un evento gratuito para todos y sin acoso.
 Debemos cuidar para un evento para todos, independientemente de:
 - género
 - Orientación Sexual

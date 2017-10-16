@@ -1,11 +1,11 @@
 
 # Anti-harassment policy
 
-We have an official policy against the harassment of events and activities of Python Mendoza | Pyladies Mendoza and we extended the same along with additional to the event Argentina DevDay.
+We have an official policy against the harassment of events and activities of Python Mendoza | Pyladies Mendoza and we extended the same along with additional to the event +Con.
 
 ##Goal
 
-The Python Mendoza | Pyladies Mendoza | Argentina DevDay is dedicated to providing a free event for all and without harassment.
+The Python Mendoza | Pyladies Mendoza | +Con is dedicated to providing a free event for all and without harassment.
 We cherish an event for everyone regardless of:
 - genre
 - Sexual Orientation

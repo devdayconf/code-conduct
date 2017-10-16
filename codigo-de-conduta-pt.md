@@ -1,11 +1,11 @@
 
 # Política anti-assédio
 
-Temos uma política oficial contra o assédio de eventos e atividades de Python Mendoza | Pyladies Mendoza e estendemos a mesma junto com adicionais para o evento Argentina DevDay.
+Temos uma política oficial contra o assédio de eventos e atividades de Python Mendoza | Pyladies Mendoza e estendemos a mesma junto com adicionais para o evento +Con.
 
 ##Objetivo
 
-O Python Mendoza | Pyladies Mendoza | Argentina DevDay é dedicado a fornecer um evento gratuito para todos e sem assédio . 
+O Python Mendoza | Pyladies Mendoza | +Con é dedicado a fornecer um evento gratuito para todos e sem assédio . 
 Nós prezamos por um evento para todos, independentemente de:
 - gênero
 - Orientação Sexual
